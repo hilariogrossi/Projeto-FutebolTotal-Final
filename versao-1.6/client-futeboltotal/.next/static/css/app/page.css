@@ -1,0 +1,146 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Roboto:wght@100;300;400;500;700&display=swap');
+
+.page_html__IRgYo {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    background-color: rgb(200, 220, 215);
+
+}
+
+#page_cabecalho__9Q6d1 {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1rem;
+    border-bottom: 0.2rem solid black;
+
+}
+
+.page_tag-a__c4cPD {
+    color: black;
+    text-decoration: none;
+
+}
+
+#page_a__IrD7m:hover {
+    color: rgb(0, 178, 0);
+
+}
+
+#page_menu-btn__gem0q:hover {
+    color: black;
+
+}
+
+.page_span_1__knpLK {
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    justify-content: space-between;
+
+}
+
+
+
+#page_cadastrese__8JfQU,
+#page_entrar__vwIwT {
+    width: 8rem;
+    height: 5rem;
+
+}
+
+.page_btn__hMGYV {
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    border: 2.5px solid black;
+
+}
+
+.page_cadastro__uJ4Uj,
+.page_entrar__vwIwT,
+.page_logout__2uA5W {
+    background-color: white;
+
+}
+
+.page_logout__2uA5W {
+    margin-left: 1rem;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    border: 2.5px solid black;
+
+}
+
+.page_noticias__pvfWr {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 900px;
+
+}
+
+.page_noticia_1__BhjLv {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    border: 1px solid #ddd;
+    margin: 10px;
+    overflow: hidden;
+
+}
+
+.page_imageFirstPage__KejXe {
+    width: 100%;
+    height: auto;
+    max-height: 235px;
+}
+
+.page_titleFirstPage__SnfdI {
+    font-size: 1.25rem;
+    margin:0.5rem;
+
+}
+
+.page_imageFirstPage__KejXe {
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+
+}
+
+.page_noticiasComImagem__Dkwrd {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+
+.page_noticiasSemImagem__6PUqU {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+
+}
+
+.page_noticiasContainerMaxWidth__Dj_d_ {
+    display: flex;
+    justify-content: center;   
+    text-align: center;
+    margin-bottom: 2rem;
+
+}
+
+.page_footer__F3MD0 {
+    text-align: center;
+    font-size: 0.75rem;
+    margin-bottom: 2rem;
+    color: black;
+
+}
+

@@ -1,0 +1,376 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Roboto:wght@100;300;400;500;700&display=swap');
+
+.page_html__IRgYo {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    background-color: rgb(200, 220, 215);
+
+}
+
+#page_cabecalho__9Q6d1 {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1rem;
+    border-bottom: 0.2rem solid black;
+
+}
+
+.page_tag-a__c4cPD {
+    color: black;
+    text-decoration: none;
+
+}
+
+#page_a__IrD7m:hover {
+    color: rgb(0, 178, 0);
+
+}
+
+#page_menu-btn__gem0q:hover {
+    color: black;
+
+}
+
+.page_span_1__knpLK {
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    justify-content: space-between;
+
+}
+
+
+
+#page_cadastrese__8JfQU,
+#page_entrar__vwIwT {
+    width: 8rem;
+    height: 5rem;
+
+}
+
+.page_btn__hMGYV {
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    border: 2.5px solid black;
+
+}
+
+.page_cadastro__uJ4Uj,
+.page_entrar__vwIwT,
+.page_logout__2uA5W {
+    background-color: white;
+
+}
+
+.page_logout__2uA5W {
+    margin-left: 1rem;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    border: 2.5px solid black;
+
+}
+
+.page_noticias__pvfWr {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 900px;
+
+}
+
+.page_noticia_1__BhjLv {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    border: 1px solid #ddd;
+    margin: 10px;
+    overflow: hidden;
+
+}
+
+.page_imageFirstPage__KejXe {
+    width: 100%;
+    height: auto;
+    max-height: 235px;
+}
+
+.page_titleFirstPage__SnfdI {
+    font-size: 1.25rem;
+    margin:0.5rem;
+
+}
+
+.page_imageFirstPage__KejXe {
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+
+}
+
+.page_noticiasComImagem__Dkwrd {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+
+.page_noticiasSemImagem__6PUqU {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+
+}
+
+.page_noticiasContainerMaxWidth__Dj_d_ {
+    display: flex;
+    justify-content: center;   
+    text-align: center;
+    margin-bottom: 2rem;
+
+}
+
+.page_footer__F3MD0 {
+    text-align: center;
+    font-size: 0.75rem;
+    margin-bottom: 2rem;
+    color: black;
+
+}
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/login/login.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************/
+.login_html__XgvFH {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.login_container__dKYZP {
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgb(200, 220, 215);
+
+}
+
+.login_containerLogin__Yilxo {
+    width: 100%;
+    min-height: 75vh;
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    padding: 1rem;
+
+}
+
+.login_wrapLogin__l_Ajf {
+    width: 400px;
+
+    background-color: rgb(190, 208, 202);
+
+    border-radius: 0.75rem;
+
+    overflow: hidden;
+
+    padding: 3.5rem 2.5rem 2.5rem 2.5rem;
+
+    box-shadow: 0 0.25rem 0 rgba(78, 151, 68, 0.2);
+
+}
+
+.login_loginForm__QSvva {
+    width: 100%;
+
+}
+
+.login_loginFormTitle__DZ2w1 {
+    display: block;
+    font-size: 2rem;
+    font-weight: 500;
+    color: green;
+
+    line-height: 1.2;
+    text-align: center;
+
+    margin-bottom: 0.75rem;
+
+}
+
+.login_login-form-title__mDndw img {
+    width: 4.5rem;
+
+    margin-bottom: 0.75rem;
+
+}
+
+.login_wrapInput__cP5e1 {
+    width: 100%;
+    position: relative;
+    border-bottom: 0.125rem solid green;
+    margin-bottom: 2rem;
+
+}
+
+.login_input__Y4JR4 {
+    font-size: 1.25rem;
+    color: green;
+    line-height: 1.2;
+    border: none;
+    display: block;
+
+    width: 100%;
+    height: 2.813rem;
+
+    background-color: rgb(167, 188, 157);
+
+    padding: 0 0.313rem;
+
+}
+
+.login_focusInput__eyFgL {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+
+    top: 0;
+    left: 0;
+
+    pointer-events: none;
+    color: green; 
+
+}
+
+.login_focusInput__eyFgL::before {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: -0.125rem;
+    left: 0;
+    width: 0;
+    height: 0.125rem;
+
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    background: linear-gradient(to left, #71c054, #14e025);
+
+}
+
+.login_focusInput__eyFgL::after {
+    font-size: 1rem;
+    color: #777373;
+    line-height: 1.2;
+
+    content: attr(data-placeholder);
+
+    display: block;
+    width: 100%;
+    position: absolute;
+    top: 1rem;
+    left: 0;
+
+    padding-left: 0.313rem;
+
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+
+}
+
+.login_input__Y4JR4:focus {
+    outline: 0;
+
+}
+
+.login_input__Y4JR4:focus + .login_focusInput__eyFgL::after {
+    top: -1.25rem;
+
+}
+
+.login_input__Y4JR4:focus + .login_focusInput__eyFgL::before {
+    width: 100%;
+
+}
+
+.login_hasVal__VvQD8 + .login_focusInput__eyFgL::after {
+    top: -1.25rem;
+
+}
+
+.login_hasVal__VvQD8 + .login_focus-input__Ebw7c::before {
+    width: 100%;
+
+}
+
+.login_containerLoginFormBtn__5G_fD {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 1rem;
+
+}
+
+.login_loginFormBtn__Fh077 {
+    font-size: 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    color: black;
+    background-color: rgb(167, 188, 157);
+
+    line-height: 1.2;
+
+    text-transform: uppercase;
+    font-weight: 500;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 50%;
+    height: 2.5rem;
+    background: linear-gradient(to left, rgb(167, 188, 157), green);
+
+}
+
+.login_loginFormBtn__Fh077:hover {
+    cursor: pointer;
+
+}
+
+.login_textCenter__qXV_l {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    margin-top: 2.5rem;
+
+}
+
+.login_txt1__CPqrE {
+    font-size: 1rem;
+    color: black;
+    line-height: 1.5;
+    padding-right: 0.75rem;
+    text-decoration: none;
+
+}
+
+.login_txt2__LkxEp {
+    font-size: 1rem;
+    color: green;
+    line-height: 1.5;
+    text-decoration: none;
+
+}
