@@ -23,6 +23,18 @@
       "static/chunks/main-app.js",
       "static/css/app/login/page.css",
       "static/chunks/app/login/page.js"
+    ],
+    "/times/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/times/page.css",
+      "static/chunks/app/times/page.js"
+    ],
+    "/tabela/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/tabela/page.css",
+      "static/chunks/app/tabela/page.js"
     ]
   }
 }
