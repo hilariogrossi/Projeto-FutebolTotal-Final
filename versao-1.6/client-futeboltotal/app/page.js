@@ -4,6 +4,7 @@ import axios from 'axios';
 import React, { useState, useEffect } from 'react';
 import styles from './page.module.css';
 import Header from './Header';
+import Footer from './footer';
 
 const Noticia = ({ title, image, href }) => (
   <a href={href} className={styles.noticia_1} target='_blank'>
@@ -71,7 +72,7 @@ const Home = () => {
             </div>
           )}
 
-          {noticiasSemImagem.length > 0 && (
+          {/* {noticiasSemImagem.length > 0 && (
             <div className={styles.noticiasComImagem}>
               {noticiasSemImagem.map((noticia, index) => (
                 <div key={index} className={styles.noticiaContainer}>
@@ -79,16 +80,13 @@ const Home = () => {
                 </div>
               ))}
             </div>
-          )}
+          )} */}
 
           {noticias.length === 0 && <p>Nenhuma notícia encontrada.</p>}
         </div>
       </div>
 
-      <footer className={styles.footer}>
-        <p>Todos direitos reservados a Hilário, Luís, Mauro e Thayná! &copy; Copyright</p>
-
-      </footer>
+      <Footer />
 
     </>
   );

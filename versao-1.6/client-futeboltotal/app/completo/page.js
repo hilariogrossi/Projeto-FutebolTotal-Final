@@ -4,6 +4,7 @@ import Image from 'next/image';
 import styles from './cadastro.module.css';
 import { useState } from 'react';
 import Header from '../Header';
+import Footer from 'app/footer';
 
 function Cadastro() {
 
@@ -216,6 +217,8 @@ function Cadastro() {
         </div>
 
       </div>
+
+      <Footer />
 
     </>
 

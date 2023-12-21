@@ -4,6 +4,7 @@ import Header from "../Header";
 import React, { useState, useEffect } from 'react';
 import axios from "axios";
 import styles from './page.module.css';
+import Footer from "app/footer";
 
 export default function Competicoes() {
 
@@ -80,6 +81,8 @@ export default function Competicoes() {
                 )}
 
             </div>
+
+            <Footer />
 
         </>
 

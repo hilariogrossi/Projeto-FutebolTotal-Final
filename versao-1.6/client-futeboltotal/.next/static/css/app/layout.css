@@ -88,7 +88,7 @@ a:hover {
 }
 
 .cadastro, .entrar {
-    background-color: white;
+    background-color: transparent;
 
 }
 
@@ -168,18 +168,18 @@ iframe {
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
-    background-color: rgb(200, 220, 215);
+    background-color: rgb(232,232,232); /*rgb(245,245,245) rgb(232,232,232)*/
 
 }
 
 #page_cabecalho__9Q6d1 {
-    margin-top: 1rem;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    padding-bottom: 1rem;
+    padding: 1rem;
     border-bottom: 0.2rem solid black;
+    background-color: rgb(245,245,245);
 
 }
 
@@ -225,7 +225,7 @@ iframe {
 .page_cadastro__uJ4Uj,
 .page_entrar__vwIwT,
 .page_logout__2uA5W {
-    background-color: white;
+    background-color: transparent;
 
 }
 
@@ -296,10 +296,13 @@ iframe {
 }
 
 .page_footer__F3MD0 {
+    padding: 1rem;
     text-align: center;
     font-size: 0.75rem;
     margin-bottom: 2rem;
     color: black;
+    background-color: rgb(245,245,245);
+    cursor: pointer;
 
 }
 

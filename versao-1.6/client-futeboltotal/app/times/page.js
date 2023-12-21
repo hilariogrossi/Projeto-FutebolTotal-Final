@@ -3,7 +3,8 @@
 import Header from "../Header";
 import React, { useState, useEffect } from 'react';
 import axios from "axios";
-import styles from './page.module.css'
+import styles from './page.module.css';
+import Footer from "app/footer";
 
 export default function Times() {
     const [times, setTimes] = useState([]);
@@ -91,6 +92,8 @@ export default function Times() {
           </ul>
 
         </div>
+
+        <Footer />
 
       </>
 

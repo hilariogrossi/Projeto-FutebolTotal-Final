@@ -4,6 +4,7 @@ import Image from 'next/image';
 import styles from './login.module.css';
 import { useState } from 'react';
 import Header from '../Header';
+import Footer from 'app/footer';
 
 function Login() {
 
@@ -102,7 +103,7 @@ function Login() {
               <div className={styles.textCenter}>
                 <span className={styles.txt1}>Não possui conta?</span>
 
-                <a className={styles.txt2} href='#'>Criar Conta</a>
+                <a className={styles.txt2} href='/cadastro'>Criar Conta</a>
 
               </div>
 
@@ -113,6 +114,8 @@ function Login() {
         </div>
 
       </div>
+
+      <Footer />
 
     </>
 

@@ -1,7 +1,9 @@
 {
   "/page": "app/page.js",
-  "/partidas/page": "app/partidas/page.js",
-  "/login/page": "app/login/page.js",
+  "/cadastro/page": "app/cadastro/page.js",
+  "/completo/page": "app/completo/page.js",
   "/times/page": "app/times/page.js",
-  "/tabela/page": "app/tabela/page.js"
+  "/tabela/page": "app/tabela/page.js",
+  "/partidas/page": "app/partidas/page.js",
+  "/login/page": "app/login/page.js"
 }
